@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, My Name is Zai 👋
 # 💫 About Me:
 🐱 Freelance developer<br>📫 How to reach me: `@onlyzaiforever` on Discord<br>What kind of things I develop 💻<br>🌚 Backend<br>🤖 Ai Stuffs<br>🤖 Discord Bots<br>📜 Roblox scripts
 
