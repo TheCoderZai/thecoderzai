@@ -1,6 +1,11 @@
 # Hello, My Name is Zai 👋
 # 💫 About Me:
-🐱 Freelance developer<br>📫 How to reach me: `@onlyzaiforever` on Discord<br>What kind of things I develop 💻<br>🌚 Backend<br>🤖 Ai Stuffs<br>🤖 Discord Bots<br>📜 Roblox scripts
+🐱 Freelance developer<br>📫 How to reach me: `@onlyzaiforever` on Discord
+### What kind of things I develop 💻
+- 🌚 Backend
+- 🤖 Ai Stuffs
+- 🤖 Discord Bots
+- 📜 Roblox scripts
 
 
 # 💻 Tech Stack:
